@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sensing_range>
+  <range_width>
+  	<min>-10</min>
+  	<max>10</max>
+  </range_width>
+  <range_height>
+    <min>-10</min>
+    <max>10</max>
+  </range_height>
+  <range_depth>
+    <min>-100</min>
+    <max>100</max>
+  </range_depth>
+</sensing_range>

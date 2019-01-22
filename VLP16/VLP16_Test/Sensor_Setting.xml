@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sensor_posture>
+  <x>0</x>
+  <y>0</y>
+  <z>0</z>
+  <pitch>0</pitch>
+  <yaw>0</yaw>
+  <roll>0</roll>
+</sensor_posture>
