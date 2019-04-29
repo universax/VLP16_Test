@@ -36,9 +36,9 @@ namespace VLP16 {
 		void Start();
 		void vlpCallback(const pcl::PointCloud<PointType>::ConstPtr& cloudPtr);
 
-		//Centroid
-		int numMaxCentroids = 100;
-		vector<Eigen::Vector4f> curCentroids;
-		void calcTrackingCentroids(vector<Eigen::Vector4f> &inputCentroids);
+		////Centroid
+		//int numMaxCentroids = 100;
+		//vector<Eigen::Vector4f> curCentroids;
+		//void calcTrackingCentroids(vector<Eigen::Vector4f> &inputCentroids);
 	};
 }

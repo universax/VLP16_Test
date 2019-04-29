@@ -5,7 +5,7 @@ class OSCSender :
 	public Singleton<OSCSender>
 {
 public:
-	void sendOSCMessage(int numObject, int index, float x, float y, float z);
+	void sendOSCMessage(std::string address, std::vector<float>& values);
 
 private:
 	friend class Singleton < OSCSender > ;
