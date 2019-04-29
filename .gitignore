@@ -295,5 +295,6 @@ __pycache__/
 *.xsd.cs
 
 # for this project
-!ThirdParty/*
+ThirdParty
 *.zip
+*.pcap
